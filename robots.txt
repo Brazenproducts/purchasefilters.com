@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://purchasefilters.com/sitemap.xml
